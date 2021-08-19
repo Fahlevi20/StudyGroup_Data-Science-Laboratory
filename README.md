@@ -1,5 +1,5 @@
 # StudyGroup_Data-Science-Laboratory
-Participate in Study Group activities\n
+Participate in Study Group activities
 Materials taught:
 Learn about Exploration Data Analysis and Data Visualization
 -learn about Web Scraping
